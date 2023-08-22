@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="c40b1686c3acf110df00e72bb00131fb" extends="sys_import_set_row" label="Richland2" max_length="40" name="x_58872_needit_richland2" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Asset Tag" label="Asset Tag" max_length="40" name="u_asset_tag" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Asset type" label="Asset type" max_length="40" name="u_asset_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Assigned User" label="Assigned User" max_length="40" name="u_assigned_user" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Attachments" label="Attachments" max_length="40" name="u_attachments" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Available" label="Available" max_length="40" name="u_available" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Buttons" label="Buttons" max_length="40" name="u_buttons" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Comments" label="Comments" max_length="84" name="u_comments" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Device Designation" label="Device Designation" max_length="40" name="u_device_designation" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Grant Funded" label="Grant Funded" max_length="40" name="u_grant_funded" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ID" label="ID" max_length="40" name="u_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Location" label="Location" max_length="40" name="u_location" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Manager" label="Manager" max_length="40" name="u_manager" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Manufacturer" label="Manufacturer" max_length="40" name="u_manufacturer" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Manufacture Date" label="Manufacture Date" max_length="40" name="u_manufacture_date" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Model" label="Model" max_length="40" name="u_model" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Modified" label="Modified" max_length="40" name="u_modified" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Modified By" label="Modified By" max_length="40" name="u_modified_by" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Notes" label="Notes" max_length="295" name="u_notes" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Serial Number" label="Serial Number" max_length="40" name="u_serial_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Sign-off status" label="Sign-off status" max_length="92" name="u_sign_off_status" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Sign on New" label="Sign on New" max_length="40" name="u_sign_on_new" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Upgrade Date" label="Upgrade Date" max_length="40" name="u_upgrade_date" type="string"/>
+    </element>
+</database>

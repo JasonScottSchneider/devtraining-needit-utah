@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="c819131ec3207510df00e72bb001314f" extends="cmdb_ci" label="MVC_Computers" max_length="40" name="x_58872_needit_u_cmdb_ci_mvc_computers" type="collection"/>
+</database>
